@@ -18,6 +18,22 @@ public class Loops {
 			System.out.print(arr1[i]+" ");
 		}
 		System.out.println();
-		
+		int j =0;
+		while(j<arr1.length) {
+			System.out.print(arr1[j]+" ");
+			j++;
+		}
+		System.out.println();
+		int x =0;
+		do {
+			System.out.print(arr1[x]+" ");
+			x++;
+		}
+		while(j<arr1.length);
+		System.out.println();
+		for(int i:arr1) {
+			System.out.print(i+" ");
+		}
+		System.out.println();
 	}
 }

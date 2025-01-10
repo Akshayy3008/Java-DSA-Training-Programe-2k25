@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Java DSA Training Programe 2k25\Day-8\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3032352024.index
+2958934411.index
